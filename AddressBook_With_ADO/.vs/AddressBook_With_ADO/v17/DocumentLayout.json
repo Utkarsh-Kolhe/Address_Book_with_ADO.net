@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Repository\\AddressBook_With_ADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C170B31-65C0-41A3-94D4-D00C6B0CE01B}|AddressBook_With_ADO\\AddressBook_With_ADO.csproj|d:\\c# repository\\addressbook_with_ado\\addressbook_with_ado\\bookoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C170B31-65C0-41A3-94D4-D00C6B0CE01B}|AddressBook_With_ADO\\AddressBook_With_ADO.csproj|solutionrelative:addressbook_with_ado\\bookoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C170B31-65C0-41A3-94D4-D00C6B0CE01B}|AddressBook_With_ADO\\AddressBook_With_ADO.csproj|D:\\C# Repository\\AddressBook_With_ADO\\addressbook_with_ado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C170B31-65C0-41A3-94D4-D00C6B0CE01B}|AddressBook_With_ADO\\AddressBook_With_ADO.csproj|solutionrelative:addressbook_with_ado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# Repository\\AddressBook_With_ADO\\AddressBook_With_ADO\\Program.cs",
+              "RelativeDocumentMoniker": "AddressBook_With_ADO\\Program.cs",
+              "ToolTip": "D:\\C# Repository\\AddressBook_With_ADO\\AddressBook_With_ADO\\Program.cs",
+              "RelativeToolTip": "AddressBook_With_ADO\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:36:32.642Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookOperations.cs",
+              "DocumentMoniker": "D:\\C# Repository\\AddressBook_With_ADO\\AddressBook_With_ADO\\BookOperations.cs",
+              "RelativeDocumentMoniker": "AddressBook_With_ADO\\BookOperations.cs",
+              "ToolTip": "D:\\C# Repository\\AddressBook_With_ADO\\AddressBook_With_ADO\\BookOperations.cs",
+              "RelativeToolTip": "AddressBook_With_ADO\\BookOperations.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAYwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:43:52.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

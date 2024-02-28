@@ -1,0 +1,7 @@
+D:\C# Repository\AddressBook_With_ADO\AddressBook_With_ADO\bin\Debug\AddressBook_With_ADO.exe.config
+D:\C# Repository\AddressBook_With_ADO\AddressBook_With_ADO\bin\Debug\AddressBook_With_ADO.exe
+D:\C# Repository\AddressBook_With_ADO\AddressBook_With_ADO\bin\Debug\AddressBook_With_ADO.pdb
+D:\C# Repository\AddressBook_With_ADO\AddressBook_With_ADO\obj\Debug\AddressBook_With_ADO.csproj.AssemblyReference.cache
+D:\C# Repository\AddressBook_With_ADO\AddressBook_With_ADO\obj\Debug\AddressBook_With_ADO.csproj.CoreCompileInputs.cache
+D:\C# Repository\AddressBook_With_ADO\AddressBook_With_ADO\obj\Debug\AddressBook_With_ADO.exe
+D:\C# Repository\AddressBook_With_ADO\AddressBook_With_ADO\obj\Debug\AddressBook_With_ADO.pdb
